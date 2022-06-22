@@ -1,0 +1,33 @@
+
+
+<!DOCTYPE html>
+<html>
+h1{
+   padding:20px;
+   margin:10px;
+   border:3px solid yellow;
+   color:white;
+   border-radius:30px;
+}
+
+
+
+img{
+    padding:20px;
+    margin:10px;
+    border:3px solid yell;
+    width:250px;
+    float:left;
+    border-radius:30px;
+       }
+p{
+    padding:20px;
+    margin:10px;
+    border:3px solid yellow;
+    width:1700px;
+    border-radius:30px;
+       }
+
+
+
+
